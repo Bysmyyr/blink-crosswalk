@@ -8,6 +8,10 @@
         'bindings_modules_v8_custom_files': [
             'V8CustomSQLStatementErrorCallback.cpp',
             'V8DeviceMotionEventCustom.cpp',
+            'V8DeviceOrientationEventCustom.cpp',
+            'V8ServiceWorkerCustom.cpp',
+            'V8WebCLCommandQueueCustom.cpp',
+            'V8WebCLProgramCustom.cpp',
         ],
     },
 }
